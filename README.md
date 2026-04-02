@@ -2,7 +2,7 @@
 
 ### Owning the AI Transition: Compute, Talent & Market Formation
 
-![HBS Africa Business Conference AI Panel](assets/hbs-africa-panel.jpeg)
+![HBS Africa Business Conference AI Panel](hbs-africa-panel.jpeg)
 
 ---
 
